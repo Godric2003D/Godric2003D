@@ -61,13 +61,5 @@ I’m a **Frontend Developer** with a strong foundation in **React.js**, current
 
 ---
 
-### 📫 Let's Connect
-
-- 📧 [debayanray39@gmail.com](mailto:debayanray39@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/debayan-ray-8a8540201/)
-- 💻 [GitHub](https://github.com/Godric2003D)
-
----
-
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
 

@@ -1,16 +1,60 @@
-## Hi there 👋
+<h1 align="center">Hi there 👋, I'm Debayan Ray</h1>
+<p align="center">
+  <a href="https://github.com/Godric2003D"><img src="https://img.shields.io/github/followers/Godric2003D?label=Follow&style=social" /></a>
+  <a href="mailto:debayanray39@gmail.com"><img src="https://img.shields.io/badge/Email-debayanray39@gmail.com-red?style=flat-square&logo=gmail" /></a>
+  <a href="https://www.linkedin.com/in/debayan-ray-8a8540201/"><img src="https://img.shields.io/badge/LinkedIn-Debayan%20Ray-blue?style=flat-square&logo=linkedin" /></a>
+</p>
 
-<!--
-**Godric2003D/Godric2003D** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 🚀 About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m a **Frontend Developer** with a strong foundation in **React.js**, currently working at **Cmart Solutions** with over **1.5 years of experience** in building scalable web applications.
+
+🔧 I've worked on `Accord`, a trade reconciliation tool, contributing to the **Mapping Configuration** module using **Redux**, **MongoDB**, and **Bootstrap** for optimal performance and responsive UI.
+
+---
+
+
+### 🛠️ Tech Stack
+
+#### Frontend
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
+
+#### Backend / Data
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+
+#### Tools & Platforms
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
+![Keycloak](https://img.shields.io/badge/-Keycloak-0066CC?logo=keycloak&logoColor=white&style=flat)
+
+---
+
+### 💡 Projects
+
+#### 📊 Sorting Visualizer
+- Built an interactive sorting algorithm visualizer using **React.js**.
+- Enabled real-time comparison of algorithm behavior and efficiency.
+
+#### 🤝 Donation Management System
+- Developed a donation platform with **Django**, user login, and basic authentication.
+
+---
+
+### 📫 Let's Connect
+
+- 📧 [debayanray39@gmail.com](mailto:debayanray39@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/debayan-ray-8a8540201/)
+- 💻 [GitHub](https://github.com/Godric2003D)
+
+---
+
+*“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
+

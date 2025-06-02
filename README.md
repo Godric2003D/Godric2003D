@@ -19,33 +19,34 @@ I’m a **Frontend Developer** with a strong foundation in **React.js**, current
 ### 🛠️ Tech Stack
 
 #### 🧑‍💻 Languages  
-<img src="https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat" />
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![C++](https://img.shields.io/badge/-C++-00599C?logo=c%2B%2B&logoColor=white&style=flat)
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
 
 #### 🌐 Frontend  
-<img src="https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat" />
-<img src="https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat" />
+![React](https://img.shields.io/badge/-React-61DAFB?logo=react&logoColor=white&style=flat)
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat)
+![Bootstrap](https://img.shields.io/badge/-Bootstrap-7952B3?logo=bootstrap&logoColor=white&style=flat)
 
 #### 🔧 Backend / Data  
-<img src="https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-SSMS-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat" />
+![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?logo=express&logoColor=white&style=flat)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
+![SQL](https://img.shields.io/badge/-SQL-4479A1?logo=postgresql&logoColor=white&style=flat)
+![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
+![SSMS](https://img.shields.io/badge/-SSMS-CC2927?logo=microsoft-sql-server&logoColor=white&style=flat)
 
 #### ⚙️ Tools & Platforms  
-<img src="https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-Keycloak-0066CC?logo=keycloak&logoColor=white&style=flat" />
-<img src="https://img.shields.io/badge/-JVM%20Architecture-FFCA28?style=flat&logo=apachetomcat&logoColor=black" />
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
+![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
+![Azure](https://img.shields.io/badge/-Azure-0078D4?logo=microsoft-azure&logoColor=white&style=flat)
+![Keycloak](https://img.shields.io/badge/-Keycloak-0066CC?logo=keycloak&logoColor=white&style=flat)
+![JVM Architecture](https://img.shields.io/badge/-JVM%20Architecture-FFCA28?style=flat&logo=apachetomcat&logoColor=black)
 
-#### 🚀 Full Stack
-<img src="https://img.shields.io/badge/-MERN%20Stack-3FA037?style=flat&logo=mongodb&logoColor=white" />
+#### 🚀 Full Stack  
+![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-3FA037?style=flat&logo=mongodb&logoColor=white)
+
 
 ---
 

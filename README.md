@@ -15,7 +15,6 @@ I’m a **Frontend Developer** with a strong foundation in **React.js**, current
 
 ---
 
-
 ### 🛠️ Tech Stack
 
 #### 🧑‍💻 Languages  
@@ -47,12 +46,11 @@ I’m a **Frontend Developer** with a strong foundation in **React.js**, current
 #### 🚀 Full Stack  
 ![MERN Stack](https://img.shields.io/badge/-MERN%20Stack-3FA037?style=flat&logo=mongodb&logoColor=white)
 
-
 ---
 
 ### 💡 Projects
 
-#### 📊 Sorting Visualizer
+#### 📊 [Sorting Visualizer](https://sorting-visualizer-ivory-ten.vercel.app/)
 - Built an interactive sorting algorithm visualizer using **React.js**.
 - Enabled real-time comparison of algorithm behavior and efficiency.
 
@@ -62,4 +60,3 @@ I’m a **Frontend Developer** with a strong foundation in **React.js**, current
 ---
 
 *“Code is like humor. When you have to explain it, it’s bad.” – Cory House*
-
